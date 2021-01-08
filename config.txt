@@ -1,4 +1,4 @@
-token=Nzg5OTg5OTMwMjY4NDkxODE2.X96FdA.wvVeDO6piVKxQgvjIdtNE9klfk0
+token=NzkwMDE1NTU4NjAyODUwMzA0.X96dUg.E6QEP0PsygOqIvxFnhCQDILw-FE
 owner=782118122571300885
 prefix=6
 game=Alpha Bots!
